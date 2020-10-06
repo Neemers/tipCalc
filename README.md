@@ -22,7 +22,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 * [X] Calculates tip per person for groups up to 20 people, using UISlider 
 
 ## Video Walkthrough
