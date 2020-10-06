@@ -20,13 +20,14 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.billField.becomeFirstResponder()
         // Do any additional setup after loading the view.
         //hello
     }
 
 
     @IBAction func onTap(_ sender: Any) {
-        view.endEditing(true)
+       // view.endEditing(true)
     }
     
     @IBAction func sliderValueChanged(_ sender: Any) {
